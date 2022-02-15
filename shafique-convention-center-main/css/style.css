@@ -1,0 +1,39 @@
+/* font family styles  */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+
+/* styles for up tick  */
+.card-body .custom-tick{
+    background-color: #EDECF9;
+    color: #6658C9;
+    border-radius: 50%;
+    padding: 3px;
+}
+/* styles for custom button  */
+.card .custom-btn{
+    background-color: #ecd2e1;
+    color: #3F87F5;
+    padding: 10px 40px;
+ 
+}
+/* special card styles  */
+.special-card{
+    border-radius: 20px;
+
+}
+/* footer styles */
+.footer-bg{
+    background-color: #0B0D17;
+}
+.btn-small{
+    font-size: 9px;
+    display: block;
+}
+footer .fab .fa-apple{
+    margin-top: 15px;
+    font-size: 10px;
+}
